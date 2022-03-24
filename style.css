@@ -1,0 +1,14 @@
+.jumbotron{
+    padding-top: 6rem;
+    text-align: center;
+}
+#gallery{
+    background-color: gray;
+}
+.col-md-6 form [type="submit"]{
+    background-color: gray;
+    border: none;
+}
+section{
+    padding-top: 5rem;
+}
